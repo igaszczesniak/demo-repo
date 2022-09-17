@@ -1,9 +1,12 @@
 # Demo 
 
-Some text blah blah blah
+This is just a test to learn github
 
 ## Subheader
 
-More text blah blah blah
+Please ignore
 
-Test
+## Local Development
+
+1. Open index.html
+2.Some other change 
