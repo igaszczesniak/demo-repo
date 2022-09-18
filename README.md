@@ -9,4 +9,4 @@ Please ignore
 ## Local Development
 
 1. Open index.html
-2.Some other change 
+2. Some other change 
